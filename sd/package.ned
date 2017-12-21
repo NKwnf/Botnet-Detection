@@ -1,3 +1,0 @@
-package sd;
-
-@license(LGPL);
